@@ -1,0 +1,5 @@
+﻿  Dijkstra.cpp
+  main.cpp
+c:\users\00000\source\repos\shortest_road\shortest_road\main.cpp(43): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  Shortest_road.vcxproj -> C:\Users\00000\source\repos\Shortest_road\Debug\Shortest_road.exe
